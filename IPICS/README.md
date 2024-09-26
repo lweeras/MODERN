@@ -3,9 +3,9 @@
 All data files contain four sections of data, each separated by a blank line:
 
 1) Species Representation -- Each line contains three values:
-    a) Integer indicating which species data relates to
-    b) Integer indicating row position of cell containing species
-    c) Integer indicating column position of cell containing species
+    i) Integer indicating which species data relates to
+    ii) Integer indicating row position of cell containing species
+    iii) Integer indicating column position of cell containing species
 2) Cost -- Each line contains three value:
     a) Integer indicating row position of cell
     b) Integer indicating column position of cell
