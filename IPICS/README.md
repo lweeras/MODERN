@@ -1,4 +1,4 @@
-# This directory contains the data files used for testing the newly proposed Interior Point, Inner Corner Score for measuring reserve compactness.
+### This directory contains the data files used for testing the newly proposed Interior Point, Inner Corner Score for measuring reserve compactness.
 
 All data files contain four sections of data, each separated by a blank line:
 
