@@ -7,9 +7,9 @@ All data files contain four sections of data, each separated by a blank line:
     2) Integer indicating row position of cell containing species
     3) Integer indicating column position of cell containing species
 2) Cost -- Each line contains three value:
-    a) Integer indicating row position of cell
-    b) Integer indicating column position of cell
-    c) Decimal value indicating cost to select the given cell as part of the reserve
+    1) Integer indicating row position of cell
+    2) Integer indicating column position of cell
+    3) Decimal value indicating cost to select the given cell as part of the reserve
 3) Required Representation -- One line, containing one value for each species. The $i^{\text{th}}$ value indicates the number of cells containing the species $i^{\text{th}}$ species that must be included in the reserve.
 4) Maximum Budget -- A single value indicating the maximum budget that can be spent on selecting a reserve.
 
